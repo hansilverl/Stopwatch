@@ -4,7 +4,6 @@ body {
 }
 
 html {
-  border-radius: 25px;
   color:#000000/*#37352f*/;
   font-size: 14px;
 }
@@ -17,18 +16,21 @@ html {
 }
 
 @media (min-width: 512px) {
+  border-radius: 25px;
   html {
     font-size: 22px;
   }
 }
 
 @media (min-width: 768px) {
+  border-radius: 25px;
   html {
     font-size: 28px;
   }
 }
 
 @media (min-width: 1024px) {
+  border-radius: 25px;
   html {
     font-size: 36px;
   }
@@ -41,6 +43,7 @@ html {
 }
 
 @media (min-width: 1440px) {
+  border-radius: 25px;
   html {
     font-size: 54px;
   }
