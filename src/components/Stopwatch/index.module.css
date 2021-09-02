@@ -6,8 +6,7 @@
 
 .stopwatch input {
   font-size: 3em;
-  font-family: "Menlo", "Consolas", "Roboto Mono", "Ubuntu Monospace",
-    "Noto Mono", "Oxygen Mono", "Liberation Mono", monospace;
+  font-family: "Arial Rounded MT", monospace;
   text-align: right;
   width: 5.25em;
 }
