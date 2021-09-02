@@ -4,14 +4,13 @@ body {
 }
 
 html {
-  color:#000000/*#37352f*/;
+  color:#37352f;
   font-size: 14px;
 }
 
-@media (prefers-color-scheme: blue) /*Yes light mode,lol */{
+@media (prefers-color-scheme: light) /*Yes light mode,lol */{
   html {
-    /*background: #e0ecf4;
-     background-color: #e0ecf4;*/
+     background-color: #e0ecf4;
     color: #e0ecf4;
   }
 }
