@@ -1,7 +1,7 @@
 .stopwatch {
   display: grid;
   grid-auto-flow: column;
-  gap: 0.75rem;
+  gap: 0.55rem;
 }
 
 .stopwatch input {
