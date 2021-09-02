@@ -8,10 +8,10 @@ html {
   font-size: 14px;
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) /*Yes light mode,lol */{
   html {
-    background-color: #2f3437;
-    color: #ebebeb;
+    background-color: #ffffff;
+    color: #6ca8b5;
   }
 }
 
