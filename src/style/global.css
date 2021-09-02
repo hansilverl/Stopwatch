@@ -46,6 +46,7 @@ html {
 }
 
 #root {
+  border-radius: 25px;
   align-items: center;
   display: flex;
   height: 100%;
