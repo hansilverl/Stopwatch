@@ -10,8 +10,8 @@ html {
 
 @media (prefers-color-scheme: light) /*Yes light mode,lol */{
   html {
-     background-color: #e0ecf4;
-    color: #e0ecf4;
+     background-color: #ffffff;
+    color: #ffffff;
   }
 }
 
