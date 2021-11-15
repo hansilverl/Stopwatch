@@ -9,3 +9,4 @@ export function useInterval(callback, interval) {
     };
   }, [callback, interval]);
 }
+ 
